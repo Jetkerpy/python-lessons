@@ -4,7 +4,7 @@ Created on Mon Jan 24 08:10:57 2022
 
 @author: Jetker
 """
-
+# Jetkerpy
 # lesson - 11
 # Task of 11 lesson
 
